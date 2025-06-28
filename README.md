@@ -17,6 +17,15 @@ This project was created as part of my self-learning journey using **Power BI De
 
 ---
 
+## 📎 Live Dashboard
+
+👉 **View the interactive Power BI Dashboard here:**  
+[Healthcare Wait List Dashboard (Power BI Online)](https://app.powerbi.com/links/F4X_W6LTGf?ctid=44e3cf94-19c9-4e32-96c3-14f5bf01391a&pbi_source=linkShare&bookmarkGuid=9c9e6de7-ef78-470b-ab83-9165b9bd)
+
+> This hosted version allows you to explore the full dashboard online with filters, time bands, case type breakdowns, and more. Built and published using Power BI Desktop and Power BI Service.
+
+---
+
 ## 💡 Features
 
 - Interactive slicers and filters
@@ -36,6 +45,4 @@ This project was created as part of my self-learning journey using **Power BI De
 - **Self-guided learning through video tutorials**
 
 ---
-
-## 📁 Folder Structure
 
